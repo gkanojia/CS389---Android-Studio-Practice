@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SimpleAsyncTask</string>
+    <string name="napping">0</string>
+    <string name="instructions">Enter a book name to find out who wrote the book. </string>
+    <string name="button_text">Search Books</string>
+    <string name="input_hint">Book Title</string>
+    <string name="no_results">0</string>
+    <string name="no_search_term">Please enter a search term</string>
+    <string name="no_network">Please check your network connection and try again.</string>
+    <string name="loading">Loading...</string>
+    <string name="authorText">author</string>
+</resources>
